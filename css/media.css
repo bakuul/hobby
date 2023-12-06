@@ -2,6 +2,30 @@
     .container {
         width: 80%;
     }
+    #header {
+        background: url(../img/фон\ 2.png)no-repeat center/cover;
+        width: 1600px;
+    height: 890px;
+    }
+    #hero {
+        background: url(../img/фон2\ 2.png)no-repeat center/cover;
+        width: 1600px;
+        height: 1242.726px;
+        padding-top: 76px;
+    }
+    #last {
+        background: url(../img/image\ 2.png)no-repeat center/cover;
+        width: 1600px;
+        height: 3175.848px;
+    }
+    .restorant{
+        width: 1175px;
+    height: 735px;
+    left: 221px;
+    }
+    .footer{
+        width: 1289px;
+    } 
 }
 
 @media (max-width: 1440px) {
