@@ -1,0 +1,1898 @@
+@media (max-width: 1600px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media (max-width: 1440px) {
+    .container {
+        width: 80%;
+    }
+    #header {
+        background: url(../img/фон\ 2.png)no-repeat center/cover;
+        width: 1440px;
+    height: 890px;
+    }
+    #hero {
+        background: url(../img/фон2\ 2.png)no-repeat center/cover;
+        width: 1440px;
+        height: 1242.726px;
+        padding-top: 76px;
+    }
+    #last {
+        background: url(../img/image\ 2.png)no-repeat center/cover;
+        width: 1440px;
+        height: 3175.848px;
+    }
+    .restorant{
+        width: 1175px;
+    height: 635px;
+    left: 121px;
+    }
+    .footer{
+        width: 1289px;
+    } 
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 80%;
+    }
+
+    #header {
+        background: url(../img/фон\ 2.png)no-repeat center/cover;
+        width: 1200px;
+    height: 690px;
+    }
+
+    .header-start {
+        gap: 31px;
+        padding: 15px 0;
+    }
+    .header-nav {
+        gap: 35px;
+    }
+    .header-nav a {
+    font-size: 16px;
+    }
+
+    .logo {
+        width: 70px;
+        height: 70px;
+    }
+    .header h2{ 
+    font-size: 24px;
+    font-weight: 600;
+    margin: 120px 0 29px 0;
+    }
+    .header p {
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    }
+    .btn1 button {
+        width: 241px;
+        height: 27px;
+        font-size: 13px;
+    }
+    .btn1 ion-icon {
+        font-size: 16px;
+        left: 210px;
+        top: 6px;
+    }
+    .btn2 button {
+        width: 321px;
+        height: 27px;
+        font-size: 13px;
+        padding-left: 210px;
+    }
+    .btn2 ion-icon {
+        font-size: 16px;
+        left: 290px;
+        top: 6px;
+    }
+
+    #hero {
+        background: url(../img/фон2\ 2.png)no-repeat center/cover;
+        width: 1200px;
+        height: 1000.726px;
+        padding-top: 76px;
+    }
+    .hero-start {
+        gap: 70px;
+    }
+    .hero-start h1 {
+        color: #FFF;
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .sale img {
+        position: absolute;
+        left: 20px;
+        top: 15px;
+        width: 150px;
+    }
+    .arrow5 {
+        width:150px;
+    }
+    .circle {
+        width: 37px;
+    height: 37px;
+    border:solid 1px  #F90;
+    background: none;
+    border-radius: 50%;
+    margin-left: 145px;
+    margin-top: 4px;
+}
+.swiper {
+    width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+        margin-top: 110px;
+        width: 221px;
+        height: 225px;
+        border-radius: 20px;
+    }
+    .swiper-slide img {
+        width: 130px;
+        top: -80px;
+        left: 40px;
+    }
+
+    .swiper-wrapper {
+        display: flex;
+        gap: 30px;
+      }
+    
+      .swiper-slide h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 45px;
+    }
+    .swiper-slide p {
+    font-size: 9px;
+    font-weight: 400;
+    margin:8px 0 0 0;
+    }
+    .swiper1 input {
+        width: 12px;
+    height: 12px;
+    }
+    .swiper1 h4 {
+    font-size: 9px;
+    font-weight: 400;
+    }
+    .swiper3 {
+        gap: 25px;
+        margin-top: 20px;
+    }
+    .swiper2 {
+        gap: 14px;
+        margin-top: 12px;
+    }
+    .swiper3 button {
+        width: 73px;
+    height: 20px;
+    border-radius: 40px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 500;
+    }
+    .swiper3 h6 {
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .swiper3 img {
+        top: 9px;
+        left: 15px;
+        width: 62px;
+        height: 2px;
+    }
+    .hero-second {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 100px;
+    }
+    .hero-second h1 {
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .hero-second img {
+        width: 150px;
+        left: 200px;
+        top: 10px;
+    }
+    .sale1 img {
+        left: 420px;
+        top: -54.5px;
+    }
+    .circle1 {
+        width: 37px;
+    height: 37px;
+    bottom: 26px;
+    left: 355px;
+    }
+    .big h4 {
+        font-size: 9px;
+        font-weight: 400;
+    }
+    #last {
+        background: url(../img/image\ 2.png)no-repeat center/cover;
+        width: 1200px;
+        height: 2305.848px;
+    }
+    .cook {
+        margin-top: 143px;
+        width: 300px;
+    }
+    .last-left {
+        margin-left: 50px;
+    }
+    .hour img {
+        width: 50px;
+        height: 50px;
+    }
+    .hour {
+        width:78px;
+    height: 78px;
+    left: 120px;
+    top: 95px;
+    }
+    .express img {
+        width: 50px;
+        height: 50px;
+    }
+    .express {
+        width: 78px;
+        height: 78px;
+        left: -35px;
+        top: 200px;
+    }
+    .spag img {
+        width: 50px;
+        height: 50px;
+    }
+    .spag {
+        width: 78px;
+        height: 78px;
+        left: 255px;
+        top: 200px;
+    }
+    .menu img{
+        width: 50px;
+        height: 50px;
+    }
+    .menu {
+        width: 78px;
+        height: 78px;
+        left: 0px;
+        top: 380px;
+    }
+    .shef img {
+        width: 50px;
+        height: 50px;
+    }
+    .shef {
+        width: 78px;
+        height: 78px;
+        left: 200px;
+        top:370px;
+    }
+    .orange {
+        width: 102px;
+    height: 102px;
+    top: 358px;
+    left: 188px;
+    }
+    .last-start {
+        gap: 450px;
+    }
+    .last-right {
+        margin-top: 224px;
+    }
+    .last-right h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 7px;
+    }
+    .imeges {
+        margin-top: 30px;
+        gap: 14px;
+        margin-left: 7px;
+    }
+    .imeges img {
+        width: 15px;
+        height: 15px;
+    }
+    .lines {
+        gap: 27.5px;
+        margin-left: 14px;
+    }
+    .lines h5 {
+        width: 1px;
+    height: 16px;
+    font-size: 14px;
+    color: #F90;
+    }
+    
+.line {
+    width: 200px;
+}
+.last-right p {
+    width: 236px;
+height: 109px;
+color: #FFF;
+font-size: 9px;
+font-weight: 300;
+margin-top: 15px;
+}
+.last-second {
+    margin-top: 120px;
+    }
+    .restorant{
+        width: 1087px;
+    height: 475px;
+    left: -7px;
+    }
+    .shadow {
+        width: 1000px;
+        height: 475px;
+        margin-left: 0px;
+        padding-left: 120px;
+    background: linear-gradient(90deg, #000 0%, #000 46.67%, rgba(0, 0, 0, 0.57) 61.58%, rgba(255, 255, 255, 0.00) 68.44%);
+    }
+    .shadow h2 {
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 40px;
+    }
+    .shadow h6 {
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    }
+    .name input{
+        width: 280px;
+    height: 38px;
+    }
+    .comment input{
+        width: 280px;
+    height: 68px;
+    }
+    .data {
+        gap: 37px;
+    }
+    .data input {
+        width: 109px;
+    height: 47px;
+    }
+    .shadow button {
+        width: 230px;
+    height: 41px;
+    font-size: 20px;
+    margin: 15px 0 0 35px;
+    }
+    .review {
+        margin-top: 750px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .our {
+        gap: 27px;
+    }
+    .our h1 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .review-left p {
+        width: 260px;
+    height: 120px;
+    font-size: 10px;
+    margin: 21px 0 10px 0;
+    }
+    .review-left button {
+        width: 200px;
+    height: 43px;
+    border-radius: 60px;
+    font-size:26px;
+    }
+    .review-right {
+        width: 400px;
+    height: 461px;
+    margin-top: -80px;
+    }
+    .strelka {
+        width: 84px;
+        margin: 90px 0 0 -10px;
+    }
+    .avatar {
+        width: 43px;
+        height: 43px;
+        margin: 90px 0 0 -40px;
+    }
+    .sadaev h4 {
+    font-size: 14px;
+    font-weight: 500;
+    }
+    .stars {
+        width: 8dvh;
+        margin: 8px 0 10px 0;
+    }
+    .sadaev p {
+        width: 242px;
+    height: 55px;
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .read {
+        gap: 50px;
+        margin-top: 10px;
+    }
+    .read h6{
+        font-size: 10px;
+    }
+    .sadaev1 {
+        margin: 73px 0 0 45px;
+    }
+    .read h5 {
+        font-size: 10px;
+        font-weight: 400;  
+        margin-left: 125px;
+    }
+    .sadaev button {
+        width: 43px;
+    height: 43px;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 120px 0 0 -40px;
+    }
+    .sadaev2 {
+        margin: 73px 0 0 45px;
+    }
+    .krug {
+        width: 20px;
+    height: 20px;
+    top: 172px;
+    left: 21.5px;
+    }
+    #swiper .free {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 10px;
+    }
+    #swiper .baby {
+        width: 317px;
+    height: 378px;
+    margin-left: -150px;
+    }
+    .swiper-slide .kebab2 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 210px;
+    }
+    .swiper-slide .kebab1 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 110px;
+    }
+    
+    #swiper {
+        margin-top: 80px;
+    }
+    #swiper .swiper-pagination {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 250px;
+    }
+    #swiper .swiper-pagination2 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 300px;
+    }
+    #swiper .swiper-pagination3 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 350px;
+    }
+    #swiper .swiper-pagination4 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 400px;
+    }
+    .arrow-left {
+        bottom: 51px;
+        width: 178px;
+        left: 280px;
+      }
+    .arrow-right {
+        bottom: 52px;
+        width: 178px;
+        left: 500px;
+      }
+      .footer{
+        width: 1090px;
+    height: 155px;
+    margin: 320px 110px 0 -120px;
+    display: flex;
+    padding-left: 109px;
+    padding-top: 30px;
+    } 
+    .footer-nav {
+        margin-right: 51px;
+        display: flex;
+        align-items: center;
+        gap: 35px;
+        margin-top: 20px;
+    }
+    .footer-nav a{
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .c {
+        gap: 8px;
+        margin: 30px 0 0 40px;
+    }
+    
+    .c button {
+        width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .c p {
+        color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .logo2 {
+        width: 100px;
+        height: 100px;
+        margin-left: 40px;
+    }
+    .house img {
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 15px;
+    }
+    .house {
+        margin-left: 50px;
+    }
+    .house p {
+        font-size: 14px;
+        font-weight: 400;
+        margin: 28px 0 0 88px;
+    }
+    .phone {
+        margin-left: 70px;
+    }
+    .phone img {
+        width: 30px;
+        height: 30px;
+    }
+    
+.phone h6 {
+    color: #FFF;
+font-size: 10px;
+font-weight: 400;
+margin: 28px 0 0 60px;
+}
+    
+}
+
+@media (max-width: 992px) {
+    .container {
+        width: 80%;
+    }
+
+    #header {
+        background: url(../img/фон\ 2.png)no-repeat center/cover;
+        width: 992px;
+    height: 690px;
+    }
+
+    .header-start {
+        gap: 31px;
+        padding: 15px 0;
+    }
+    .header-nav {
+        gap: 35px;
+    }
+    .header-nav a {
+    font-size: 16px;
+    }
+
+    .logo {
+        width: 70px;
+        height: 70px;
+    }
+    .header h2{ 
+    font-size: 24px;
+    font-weight: 600;
+    margin: 120px 0 29px 0;
+    }
+    .header p {
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    }
+    .btn1 button {
+        width: 241px;
+        height: 27px;
+        font-size: 13px;
+    }
+    .btn1 ion-icon {
+        font-size: 16px;
+        left: 210px;
+        top: 6px;
+    }
+    .btn2 button {
+        width: 321px;
+        height: 27px;
+        font-size: 13px;
+        padding-left: 210px;
+    }
+    .btn2 ion-icon {
+        font-size: 16px;
+        left: 290px;
+        top: 6px;
+    }
+
+    #hero {
+        background: url(../img/фон2\ 2.png)no-repeat center/cover;
+        width: 992px;
+        height: 1000.726px;
+        padding-top: 76px;
+    }
+    .hero-start {
+        gap: 70px;
+    }
+    .hero-start h1 {
+        color: #FFF;
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .sale img {
+        position: absolute;
+        left: 20px;
+        top: 15px;
+        width: 150px;
+    }
+    .arrow5 {
+        width:150px;
+    }
+    .circle {
+        width: 37px;
+    height: 37px;
+    border:solid 1px  #F90;
+    background: none;
+    border-radius: 50%;
+    margin-left: 145px;
+    margin-top: 4px;
+}
+.swiper {
+    width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+        margin-top: 110px;
+        width: 221px;
+        height: 225px;
+        border-radius: 20px;
+    }
+    .swiper-slide img {
+        width: 130px;
+        top: -80px;
+        left: 40px;
+    }
+
+    .swiper-wrapper {
+        display: flex;
+        gap: 30px;
+      }
+    
+      .swiper-slide h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 45px;
+    }
+    .swiper-slide p {
+    font-size: 9px;
+    font-weight: 400;
+    margin:8px 0 0 0;
+    }
+    .swiper1 input {
+        width: 12px;
+    height: 12px;
+    }
+    .swiper1 h4 {
+    font-size: 9px;
+    font-weight: 400;
+    }
+    .swiper3 {
+        gap: 25px;
+        margin-top: 20px;
+    }
+    .swiper2 {
+        gap: 14px;
+        margin-top: 12px;
+    }
+    .swiper3 button {
+        width: 73px;
+    height: 20px;
+    border-radius: 40px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 500;
+    }
+    .swiper3 h6 {
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .swiper3 img {
+        top: 9px;
+        left: 15px;
+        width: 62px;
+        height: 2px;
+    }
+    .hero-second {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 100px;
+    }
+    .hero-second h1 {
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .hero-second img {
+        width: 150px;
+        left: 200px;
+        top: 10px;
+    }
+    .sale1 img {
+        left: 420px;
+        top: -54.5px;
+    }
+    .circle1 {
+        width: 37px;
+    height: 37px;
+    bottom: 26px;
+    left: 355px;
+    }
+    .big h4 {
+        font-size: 9px;
+        font-weight: 400;
+    }
+    #last {
+        background: url(../img/image\ 2.png)no-repeat center/cover;
+        width: 992px;
+        height: 2305.848px;
+    }
+    .cook {
+        margin-top: 143px;
+        width: 300px;
+    }
+    .last-left {
+        margin-left: 50px;
+    }
+    .hour img {
+        width: 50px;
+        height: 50px;
+    }
+    .hour {
+        width:78px;
+    height: 78px;
+    left: 120px;
+    top: 95px;
+    }
+    .express img {
+        width: 50px;
+        height: 50px;
+    }
+    .express {
+        width: 78px;
+        height: 78px;
+        left: -35px;
+        top: 200px;
+    }
+    .spag img {
+        width: 50px;
+        height: 50px;
+    }
+    .spag {
+        width: 78px;
+        height: 78px;
+        left: 255px;
+        top: 200px;
+    }
+    .menu img{
+        width: 50px;
+        height: 50px;
+    }
+    .menu {
+        width: 78px;
+        height: 78px;
+        left: 0px;
+        top: 380px;
+    }
+    .shef img {
+        width: 50px;
+        height: 50px;
+    }
+    .shef {
+        width: 78px;
+        height: 78px;
+        left: 200px;
+        top:370px;
+    }
+    .orange {
+        width: 102px;
+    height: 102px;
+    top: 358px;
+    left: 188px;
+    }
+    .last-start {
+        gap: 450px;
+    }
+    .last-right {
+        margin-top: 224px;
+    }
+    .last-right h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 7px;
+    }
+    .imeges {
+        margin-top: 30px;
+        gap: 14px;
+        margin-left: 7px;
+    }
+    .imeges img {
+        width: 15px;
+        height: 15px;
+    }
+    .lines {
+        gap: 27.5px;
+        margin-left: 14px;
+    }
+    .lines h5 {
+        width: 1px;
+    height: 16px;
+    font-size: 14px;
+    color: #F90;
+    }
+    
+.line {
+    width: 200px;
+}
+.last-right p {
+    width: 236px;
+height: 109px;
+color: #FFF;
+font-size: 9px;
+font-weight: 300;
+margin-top: 15px;
+}
+.last-second {
+    margin-top: 120px;
+    }
+    .restorant{
+        width: 900px;
+    height: 475px;
+    left: -7px;
+    }
+    .shadow {
+        width: 900px;
+        height: 475px;
+        margin-left: 0px;
+        padding-left: 80px;
+    background: linear-gradient(90deg, #000 0%, #000 46.67%, rgba(0, 0, 0, 0.57) 61.58%, rgba(255, 255, 255, 0.00) 68.44%);
+    }
+    .shadow h2 {
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 40px;
+    }
+    .shadow h6 {
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    }
+    .name input{
+        width: 280px;
+    height: 38px;
+    }
+    .comment input{
+        width: 280px;
+    height: 68px;
+    }
+    .data {
+        gap: 37px;
+    }
+    .data input {
+        width: 109px;
+    height: 47px;
+    }
+    .shadow button {
+        width: 230px;
+    height: 41px;
+    font-size: 20px;
+    margin: 15px 0 0 35px;
+    }
+    .review {
+        margin-top: 750px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .our {
+        gap: 27px;
+    }
+    .our h1 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .review-left p {
+        width: 260px;
+    height: 120px;
+    font-size: 10px;
+    margin: 21px 0 10px 0;
+    }
+    .review-left button {
+        width: 200px;
+    height: 43px;
+    border-radius: 60px;
+    font-size:26px;
+    }
+    .review-right {
+        width: 400px;
+    height: 461px;
+    margin-top: -80px;
+    }
+    .strelka {
+        width: 84px;
+        margin: 90px 0 0 -10px;
+    }
+    .avatar {
+        width: 43px;
+        height: 43px;
+        margin: 90px 0 0 -40px;
+    }
+    .sadaev h4 {
+    font-size: 14px;
+    font-weight: 500;
+    }
+    .stars {
+        width: 8dvh;
+        margin: 8px 0 10px 0;
+    }
+    .sadaev p {
+        width: 242px;
+    height: 55px;
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .read {
+        gap: 50px;
+        margin-top: 10px;
+    }
+    .read h6{
+        font-size: 10px;
+    }
+    .sadaev1 {
+        margin: 73px 0 0 45px;
+    }
+    .read h5 {
+        font-size: 10px;
+        font-weight: 400;  
+        margin-left: 125px;
+    }
+    .sadaev button {
+        width: 43px;
+    height: 43px;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 120px 0 0 -40px;
+    }
+    .sadaev2 {
+        margin: 73px 0 0 45px;
+    }
+    .krug {
+        width: 20px;
+    height: 20px;
+    top: 172px;
+    left: 21.5px;
+    }
+    #swiper .free {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 10px;
+    }
+    #swiper .baby {
+        width: 317px;
+    height: 378px;
+    margin-left: -150px;
+    }
+    .swiper-slide .kebab2 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 210px;
+    }
+    .swiper-slide .kebab1 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 110px;
+    }
+    
+    #swiper {
+        margin-top: 80px;
+    }
+    #swiper .swiper-pagination {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 250px;
+    }
+    #swiper .swiper-pagination2 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 300px;
+    }
+    #swiper .swiper-pagination3 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 350px;
+    }
+    #swiper .swiper-pagination4 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 400px;
+    }
+    .arrow-left {
+        bottom: 51px;
+        width: 178px;
+        left: 280px;
+      }
+    .arrow-right {
+        bottom: 52px;
+        width: 178px;
+        left: 500px;
+      }
+      .footer{
+        width: 900px;
+    height: 155px;
+    margin: 320px 100px 0 -105px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 30px;
+    } 
+    .footer-nav {
+        margin-right: 51px;
+        display: flex;
+        align-items: center;
+        gap: 35px;
+        margin-top: 20px;
+    }
+    .footer-nav a{
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .c {
+        gap: 8px;
+        margin: 30px 0 0 40px;
+    }
+    
+    .c button {
+        width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .c p {
+        color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .logo2 {
+        width: 100px;
+        height: 100px;
+    }
+    .house img {
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 15px;
+    }
+    .house p {
+        font-size: 14px;
+        font-weight: 400;
+        margin: 28px 0 0 88px;
+    }
+    .phone img {
+        width: 30px;
+        height: 30px;
+    }
+    
+.phone h6 {
+    color: #FFF;
+font-size: 10px;
+font-weight: 400;
+margin: 28px 0 0 60px;
+}
+    
+}
+
+@media (max-width: 415px){
+    .container {
+        width: 90%;
+    }
+    #header {
+        background: url(../img/фон\ 3.png), lightgray 50% / cover no-repeat;
+        
+    }
+    #burger, [for=burger]{
+        display: block;
+        position: fixed;
+        width: 40px;
+        text-align: center;
+        right: 40px;
+        top: 20px;
+    }
+    #burger:checked + label + nav {
+        display: block;
+        animation: show .3s ease;
+    }
+    #burger:checked + [for=burger]::before{
+        content: '.arrow';
+    }
+    .arrow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 65px;
+        height: 65px;
+        background: #F90;
+        color: white;
+        font-size: 35px;
+    }
+    
+
+    .header-start {
+        padding-top: 10px;
+    }
+    .header-nav {
+        display: none;
+    }
+    input {
+        opacity: 0;
+    }
+    nav  {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: url(../img/фон\ 3.png),  lightgray 50% / cover no-repeat;
+        width: 100%;
+        height: 850px;
+        flex-direction: column;
+        padding: 130px 0 0 77px;
+    }
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    nav a {
+        color: #FFF;
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .header-nav a {
+        flex-direction: column;
+    }
+
+    .header img{
+        width: 60px;
+    }
+
+    .header-start button {
+        display: block;
+        width: 342px;
+        height: 66px;
+        border-radius: 20px;
+        background: #F90;
+        border: none;
+        color: #FFF;
+        font-size: 36px;
+        font-weight: 700;
+        margin: 80px 0 0 -40px;
+    }
+
+    @keyframes show {
+        0%{
+          opacity: 0;
+        }
+        100%{
+            opacity: 1;
+        }
+    } 
+        
+    
+}
+
+@media (max-width: 768px){
+
+    .container {
+        width: 90%;
+    }
+    body {
+        width: 768px;
+        height: 7000px;
+    }
+    #header {
+        background: url(../img/mobil\ phon.3png.png), lightgray 50% / cover no-repeat;
+        width: 100%;
+        width: 100%;
+        padding-bottom: 50%;
+    }
+    #burger, [for=burger]{
+        display: block;
+        position: fixed;
+        width: 50px;
+        text-align: center;
+        right: 500px;
+        top: 30px;
+    }
+    .burger {
+        width: 200px;
+        height: 100%;
+    }
+    #burger:checked + label + nav {
+        display: block;
+        animation: show .3s ease;
+    }
+    #burger:checked + [for=burger]::before{
+        content: '.arrow';
+    }
+    .arrow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 65px;
+        height: 65px;
+        background: #F90;
+        color: white;
+        font-size: 35px;
+        left: 680px;
+    }
+    
+
+    .header-start {
+        padding-top: 10px;
+    }
+    .header-nav {
+        display: none;
+    }
+    input {
+        opacity: 0;
+    }
+    nav  {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: url(../img/mobil\ phon.3png.png),  lightgray 50% / cover no-repeat;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        padding: 130px 0 0 77px;
+    }
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+    nav a {
+        color: #FFF;
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .header-nav a {
+        flex-direction: column;
+    }
+
+    .header img{
+        width: 60px;
+    }
+
+    .header-start button {
+        display: block;
+        width: 342px;
+        height: 66px;
+        border-radius: 20px;
+        background: #F90;
+        border: none;
+        color: #FFF;
+        font-size: 36px;
+        font-weight: 700;
+        margin: 80px 0 0 -40px;
+    }
+
+    @keyframes show {
+        0%{
+          opacity: 0;
+        }
+        100%{
+            opacity: 1;
+        }
+    } 
+
+   
+
+    .header-start {
+        gap: 31px;
+        padding: 15px 0;
+    }
+    .header-nav {
+        gap: 35px;
+    }
+    .header-nav a {
+    font-size: 16px;
+    }
+
+    .logo {
+        width: 70px;
+        height: 70px;
+    }
+    .header h2{ 
+    font-size: 24px;
+    font-weight: 600;
+    margin: 120px 0 29px 0;
+    }
+    .header p {
+    font-size: 10px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    }
+    .btn1 button {
+        width: 241px;
+        height: 27px;
+        font-size: 13px;
+    }
+    .btn1 ion-icon {
+        font-size: 16px;
+        left: 210px;
+        top: 6px;
+    }
+    .btn2 button {
+        width: 321px;
+        height: 27px;
+        font-size: 13px;
+        padding-left: 210px;
+    }
+    .btn2 ion-icon {
+        font-size: 16px;
+        left: 290px;
+        top: 6px;
+    }
+
+    #hero {
+        background: url(../img/mobil\ phon.png)no-repeat center/cover;
+        width: 100%;
+        height: 100%;
+        padding-top: 76px;
+    }
+    .hero-start {
+        gap: 70px;
+    }
+    .hero-start h1 {
+        color: #FFF;
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .sale img {
+        position: absolute;
+        left: 20px;
+        top: 15px;
+        width: 150px;
+    }
+    .arrow5 {
+        width:150px;
+    }
+    .circle {
+        width: 37px;
+    height: 37px;
+    border:solid 1px  #F90;
+    background: none;
+    border-radius: 50%;
+    margin-left: 145px;
+    margin-top: 4px;
+}
+.swiper {
+    width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+        margin-top: 110px;
+        width: 221px;
+        height: 225px;
+        border-radius: 20px;
+    }
+    .swiper-slide img {
+        width: 130px;
+        top: -80px;
+        left: 40px;
+    }
+
+    .swiper-wrapper {
+        display: flex;
+        gap: 30px;
+      }
+    
+      .swiper-slide h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 45px;
+    }
+    .swiper-slide p {
+    font-size: 9px;
+    font-weight: 400;
+    margin:8px 0 0 0;
+    }
+    .swiper1 input {
+        width: 12px;
+    height: 12px;
+    }
+    .swiper1 h4 {
+    font-size: 9px;
+    font-weight: 400;
+    }
+    .swiper3 {
+        gap: 25px;
+        margin-top: 20px;
+    }
+    .swiper2 {
+        gap: 14px;
+        margin-top: 12px;
+    }
+    .swiper3 button {
+        width: 73px;
+    height: 20px;
+    border-radius: 40px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 500;
+    }
+    .swiper3 h6 {
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .swiper3 img {
+        top: 9px;
+        left: 15px;
+        width: 62px;
+        height: 2px;
+    }
+    .hero-second {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 100px;
+    }
+    .hero-second h1 {
+    font-size: 26px;
+    font-weight: 600;
+    }
+    .hero-second img {
+        width: 150px;
+        left: 200px;
+        top: 10px;
+    }
+    .sale1 img {
+        left: 420px;
+        top: -54.5px;
+    }
+    .circle1 {
+        width: 37px;
+    height: 37px;
+    bottom: 26px;
+    left: 355px;
+    }
+    .big h4 {
+        font-size: 9px;
+        font-weight: 400;
+    }
+    #last {
+        background: url(../img/mobil\ phon2.png)no-repeat center/cover;
+        width: 100%;
+        height: 100%;
+    }
+    .cook {
+        margin-top: 143px;
+        width: 300px;
+    }
+    .last-left {
+        margin-left: 50px;
+    }
+    .hour img {
+        width: 50px;
+        height: 50px;
+    }
+    .hour {
+        width:78px;
+    height: 78px;
+    left: 120px;
+    top: 95px;
+    }
+    .express img {
+        width: 50px;
+        height: 50px;
+    }
+    .express {
+        width: 78px;
+        height: 78px;
+        left: -35px;
+        top: 200px;
+    }
+    .spag img {
+        width: 50px;
+        height: 50px;
+    }
+    .spag {
+        width: 78px;
+        height: 78px;
+        left: 255px;
+        top: 200px;
+    }
+    .menu img{
+        width: 50px;
+        height: 50px;
+    }
+    .menu {
+        width: 78px;
+        height: 78px;
+        left: 0px;
+        top: 380px;
+    }
+    .shef img {
+        width: 50px;
+        height: 50px;
+    }
+    .shef {
+        width: 78px;
+        height: 78px;
+        left: 200px;
+        top:370px;
+    }
+    .orange {
+        width: 102px;
+    height: 102px;
+    top: 358px;
+    left: 188px;
+    }
+    .last-start {
+        gap: 450px;
+    }
+    .last-right {
+        margin-top: 224px;
+    }
+    .last-right h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 7px;
+    }
+    .imeges {
+        margin-top: 30px;
+        gap: 14px;
+        margin-left: 7px;
+    }
+    .imeges img {
+        width: 15px;
+        height: 15px;
+    }
+    .lines {
+        gap: 27.5px;
+        margin-left: 14px;
+    }
+    .lines h5 {
+        width: 1px;
+    height: 16px;
+    font-size: 14px;
+    color: #F90;
+    }
+    
+.line {
+    width: 200px;
+}
+.last-right p {
+    width: 236px;
+height: 109px;
+color: #FFF;
+font-size: 9px;
+font-weight: 300;
+margin-top: 15px;
+}
+.last-second {
+    margin-top: 120px;
+    }
+    .restorant{
+        width: 900px;
+    height: 475px;
+    left: -7px;
+    }
+    .shadow {
+        width: 900px;
+        height: 475px;
+        margin-left: 0px;
+        padding-left: 80px;
+    background: linear-gradient(90deg, #000 0%, #000 46.67%, rgba(0, 0, 0, 0.57) 61.58%, rgba(255, 255, 255, 0.00) 68.44%);
+    }
+    .shadow h2 {
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 40px;
+    }
+    .shadow h6 {
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    }
+    .name input{
+        width: 280px;
+    height: 38px;
+    }
+    .comment input{
+        width: 280px;
+    height: 68px;
+    }
+    .data {
+        gap: 37px;
+    }
+    .data input {
+        width: 109px;
+    height: 47px;
+    }
+    .shadow button {
+        width: 230px;
+    height: 41px;
+    font-size: 20px;
+    margin: 15px 0 0 35px;
+    }
+    .review {
+        margin-top: 750px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .our {
+        gap: 27px;
+    }
+    .our h1 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+    .review-left p {
+        width: 260px;
+    height: 120px;
+    font-size: 10px;
+    margin: 21px 0 10px 0;
+    }
+    .review-left button {
+        width: 200px;
+    height: 43px;
+    border-radius: 60px;
+    font-size:26px;
+    }
+    .review-right {
+        width: 400px;
+    height: 461px;
+    margin-top: -80px;
+    }
+    .strelka {
+        width: 84px;
+        margin: 90px 0 0 -10px;
+    }
+    .avatar {
+        width: 43px;
+        height: 43px;
+        margin: 90px 0 0 -40px;
+    }
+    .sadaev h4 {
+    font-size: 14px;
+    font-weight: 500;
+    }
+    .stars {
+        width: 8dvh;
+        margin: 8px 0 10px 0;
+    }
+    .sadaev p {
+        width: 242px;
+    height: 55px;
+    font-size: 10px;
+    font-weight: 400;
+    }
+    .read {
+        gap: 50px;
+        margin-top: 10px;
+    }
+    .read h6{
+        font-size: 10px;
+    }
+    .sadaev1 {
+        margin: 73px 0 0 45px;
+    }
+    .read h5 {
+        font-size: 10px;
+        font-weight: 400;  
+        margin-left: 125px;
+    }
+    .sadaev button {
+        width: 43px;
+    height: 43px;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 120px 0 0 -40px;
+    }
+    .sadaev2 {
+        margin: 73px 0 0 45px;
+    }
+    .krug {
+        width: 20px;
+    height: 20px;
+    top: 172px;
+    left: 21.5px;
+    }
+    #swiper .free {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 10px;
+    }
+    #swiper .baby {
+        width: 317px;
+    height: 378px;
+    margin-left: -150px;
+    }
+    .swiper-slide .kebab2 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 210px;
+    }
+    .swiper-slide .kebab1 {
+        width: 262px;
+        height: 197px;
+        margin: 100px 0 0 110px;
+    }
+    
+    #swiper {
+        margin-top: 80px;
+    }
+    #swiper .swiper-pagination {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 250px;
+    }
+    #swiper .swiper-pagination2 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 300px;
+    }
+    #swiper .swiper-pagination3 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 350px;
+    }
+    #swiper .swiper-pagination4 {
+        width: 20px;
+        height: 20px;
+        top: 370px;
+        left: 400px;
+    }
+    .arrow-left {
+        bottom: 51px;
+        width: 178px;
+        left: 280px;
+      }
+    .arrow-right {
+        bottom: 52px;
+        width: 178px;
+        left: 500px;
+      }
+      .footer{
+        width: 900px;
+    height: 155px;
+    margin: 320px 100px 0 -105px;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 30px;
+    } 
+    .footer-nav {
+        margin-right: 51px;
+        display: flex;
+        align-items: center;
+        gap: 35px;
+        margin-top: 20px;
+    }
+    .footer-nav a{
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .c {
+        gap: 8px;
+        margin: 30px 0 0 40px;
+    }
+    
+    .c button {
+        width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .c p {
+        color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    }
+    .logo2 {
+        width: 100px;
+        height: 100px;
+    }
+    .house img {
+        width: 30px;
+        height: 30px;
+        left: 50px;
+        top: 15px;
+    }
+    .house p {
+        font-size: 14px;
+        font-weight: 400;
+        margin: 28px 0 0 88px;
+    }
+    .phone img {
+        width: 30px;
+        height: 30px;
+    }
+    
+.phone h6 {
+    color: #FFF;
+font-size: 10px;
+font-weight: 400;
+margin: 28px 0 0 60px;
+}
+    
+
+    
+}
