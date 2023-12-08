@@ -152,6 +152,10 @@ font-size: 36px;
 font-weight: 700;
 }
 
+.arrow7, .arrow8 {
+    display: none;
+} 
+
 .sale {
     position: relative;
 }
@@ -513,6 +517,24 @@ font-weight: 400;
 margin-top: 20px;
 }
 
+.last-right button {
+    display: none;
+    width: 180px;
+height: 40px;
+flex-shrink: 0;
+border-radius: 60px;
+border: 1px solid #F90;
+color: #FFF;
+font-size: 18px;
+font-weight: 600;
+background: none;
+transition: .4s;
+cursor: pointer;
+}
+.last-right button:hover {
+    background: #F90;
+}
+
 .last-second {
 margin-top: 220px;
 position: relative;
@@ -825,6 +847,11 @@ margin-left: -120px;
     position: relative;
 }
 
+.gallery {
+    color: #FFF;
+    display: none;
+}
+
   .arrow-left {
     position: absolute;
     bottom: 82.5px;
@@ -865,6 +892,8 @@ padding-top: 30px;
 font-size: 18px;
 font-weight: 400;
 }
+
+.footer-icon {display: flex;}
 
 .c {
     display: flex;
